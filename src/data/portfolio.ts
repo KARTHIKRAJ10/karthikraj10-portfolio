@@ -29,7 +29,7 @@ export const FEATURED_PROJECTS: Project[] = [
     stack: ["Python", "dbt", "SQL", "Scikit-learn", "Power BI", "AWS"],
     value:
       "Enabled data-driven merchandising, pricing, and promotion decisions with measurable lift in forecast accuracy and budget reallocation efficiency.",
-    links: { demo: "#", github: "#", casestudy: "#" },
+    links: {  github: "#", casestudy: "#" },
   },
   {
     title: "Ecommerce Intelligence Platform",
